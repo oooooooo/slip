@@ -1,5 +1,7 @@
-require "slip/version"
+require 'slip/cli'
+require 'slip/cli/on'
+require 'slip/cli/source'
+require 'slip/version'
 
 module Slip
-  # Your code goes here...
 end

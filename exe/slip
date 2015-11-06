@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'slip/cli'
+Slip::CLI.start
